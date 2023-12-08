@@ -20,7 +20,7 @@
 
 -join Triiodide Studios as a passionate developer ready to serve for anything needed (requires the accomplishment of the two previous objectives)
 
-<p align="center"> <img scr="https://images-ext-2.discordapp.net/external/7G35VXKyXwpTPXpf7FwU2wEdeAzueQq6elGwvcMQfkM/https/media.tenor.com/qOkNTvrChHUAAAPo/fleurdelise.mp4" height="300" width="300" />
+<p align="center"> <img scr="https://images-ext-2.discordapp.net/external/7G35VXKyXwpTPXpf7FwU2wEdeAzueQq6elGwvcMQfkM/https/media.tenor.com/qOkNTvrChHUAAAPo/fleurdelise.mp4" height="300" width="300" alt="My motherland" />
  
 <!---
 LordWitherRatio/LordWitherRatio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
