@@ -11,7 +11,7 @@
   👀 I’m interested in learning C++ language. 
   I’m currently taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!  
   
-    📫 How to reach me justinchertier1@gmail.com
+    📫 How to reach me <link>justinchertier1@gmail.com</link>
 </head>
 
 <head>
@@ -23,16 +23,24 @@
 </head>
 
 <head>
+  <h4>Skills:<h4>
+  <ul>
+  <li>Html language</li>
+  </ul>
+</head>
+
+<head>
 <h4>Objectives related to coding:</h4>
 <ul>
-<li>advanced knowledge of C++</li>
-<li>high level advanced knowledge of editors previously named</li>
+<li>basic knowledge of C++</li>
+<li>satisfying knowledge of editors previously named</li>
+<li>advanced knowledge of Html language
 </ul>
 </head>
 
 <p align="center"> <img scr="https://images-ext-2.discordapp.net/external/7G35VXKyXwpTPXpf7FwU2wEdeAzueQq6elGwvcMQfkM/https/media.tenor.com/qOkNTvrChHUAAAPo/fleurdelise.mp4" height="300" width="300" alt="My motherland" />
  
-</body>
+</body
 
 <!---
 LordWitherRatio/LordWitherRatio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
