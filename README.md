@@ -1,24 +1,23 @@
-- 👋 Hi, I’m @LordWitherRatio!
+  Hello, I’m @LordWitherRatio!
   👀 I’m interested in learning C++ language. 
-  🌱 I’m currently learning C++, taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!  
+  I’m currently taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!  
   📫 How to reach me justinchertier1@gmail.com
 
 
-- Editors:
+  Editors used:
 -VS Code
--Unreal Engine (soon)
--Rider
+-Unreal Engine
 
 
 
 
-  Objectives:
 
--advanced knowledge of C++ (to accomplish before 2025)
+  Objectives related to coding:
+
+-advanced knowledge of C++
 
 -high level advanced knowledge of editors previously named
 
--join Triiodide Studios as a passionate developer ready to serve for anything needed (requires the accomplishment of the two previous objectives)
 
 <p align="center"> <img scr="https://images-ext-2.discordapp.net/external/7G35VXKyXwpTPXpf7FwU2wEdeAzueQq6elGwvcMQfkM/https/media.tenor.com/qOkNTvrChHUAAAPo/fleurdelise.mp4" height="300" width="300" alt="My motherland" />
  
