@@ -3,14 +3,13 @@
 <body>
 
 <head>
-    <title>My bio</title>
+<h1> Hello, I’m @LordWitherRatio!</h1>
+  👀 I’m interested in learning C++ language. 
+  I’m currently taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!     
 </head>
 
 <head>
-<h1> Hello, I’m @LordWitherRatio!</h1>
-  👀 I’m interested in learning C++ language. 
-  I’m currently taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!  
-  📫 How to reach me justinchertier1@gmail.com
+📫 How to reach me: <p justinchertier1@gmail.com />
 </head>
 
 <head>
