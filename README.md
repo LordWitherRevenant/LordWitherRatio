@@ -9,7 +9,7 @@
 </head>
 
 <head>
-📫 How to reach me: <p justinchertier1@gmail.com />
+ 📫 How to reach me: justinchertier1@gmail.com 
 </head>
 
 <head>
