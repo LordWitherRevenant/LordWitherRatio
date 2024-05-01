@@ -7,11 +7,11 @@
   👀 I’m interested in learning C++ language. 
   I’m currently taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!     
 </head>
-
+<br>
 <head>
  📫 How to reach me: justinchertier1@gmail.com 
 </head>
-
+<br>
 <head>
   <h4>Editors used:</h4>
 <ul>
