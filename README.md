@@ -3,7 +3,7 @@
 <body>
 
 <head>
-<h1> Hello, I’m @LordWitherRatio!</h1>
+<h1> Hello, I’m @LordWitherRevenant!</h1>
   👀 I’m interested in learning C++ language. 
   I’m currently taking lessons to attend B2, and studying a lot Physics (also Maths), Geopolitics, Chemestry and of course Latin!     
 </head>
