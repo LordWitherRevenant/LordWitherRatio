@@ -3,7 +3,7 @@
 <body>
 
 <head>
-<h1> Hello, I’m @LordWitherRevenant!</h1>
+<h1> Hello, I’m @LordWitherWrath!</h1>
   👀 I’m interested in learning C++ language. 
   I got B2, I study a lot Physics, Maths, Geopolitics, Chemestry and of course Latin! 
   VIVE LA FRANCE and GLORIAE ROMA
